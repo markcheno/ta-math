@@ -1,6 +1,6 @@
 {
   "name": "ta-math",
-  "version": "0.4.56",
+  "version": "0.4.57",
   "lockfileVersion": 1,
   "requires": true,
   "dependencies": {
@@ -3233,9 +3233,9 @@
       }
     },
     "rollup": {
-      "version": "2.12.0",
-      "resolved": "https://registry.npmjs.org/rollup/-/rollup-2.12.0.tgz",
-      "integrity": "sha512-vKwc/xFkZGM9DRai3Eztpr/4g0yYDgNKVq8tLXhq/aSLbR+/EVL6rTjEW9bgWgeYEIKoN66/5w2Bjv1gzyHR/w==",
+      "version": "2.17.1",
+      "resolved": "https://registry.npmjs.org/rollup/-/rollup-2.17.1.tgz",
+      "integrity": "sha512-lVrtCXJ+08Eapa0SfApLmRNWNWm2FsYFnLPIJZJvZz2uI2Gv+dfPyu1zgF7KKF/HYFJDvjxbdCbI8lUVMnG7Sg==",
       "dev": true,
       "requires": {
         "fsevents": "~2.1.2"
